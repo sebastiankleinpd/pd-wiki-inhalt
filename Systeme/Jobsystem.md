@@ -1,4 +1,4 @@
-# Jobsystem (Arma 3 Life)
+# Jobsystem
 
 Das **Jobsystem** ist ein zentraler Bestandteil des Arma-3-Life-Gameplays und ermöglicht Spielern, legales Geld zu verdienen. 
 Alle verfügbaren Jobs werden über das **Jobcenter in Stuttgart** angenommen. Über das dort verfügbare **Jobmenü** können Spieler einen Job auswählen, starten oder später wieder kündigen.
