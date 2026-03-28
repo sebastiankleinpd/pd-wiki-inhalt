@@ -1,0 +1,66 @@
+# Café-System (Drogenverkauf)
+
+## Übersicht
+Das Café-System ermöglicht es Spielern, Drogen über bestimmte Cafés auf dem Server zu verkaufen. Diese Cafés müssen zunächst eingenommen werden und bieten anschließend die Möglichkeit, Ware zu lagern und automatisch verkaufen zu lassen.
+
+## Einnahme eines Cafés
+- Cafés sind über den Server verteilt und können von Spielern oder Gangs eingenommen werden.
+- Die Einnahme dauert eine bestimmte Zeit.
+- Erst nach erfolgreicher Einnahme gehört das Café dir bzw. deiner Gang.
+
+## Nutzung des Cafés
+Nach der Einnahme kannst du:
+
+- Drogen im Café einlagern
+- Den automatischen Verkaufsprozess starten
+
+Wichtig:
+Der Verkauf läuft nicht sofort, sondern benötigt Zeit.
+
+## Verkaufsdauer
+- Der Verkaufsprozess dauert bis zu 30 Minuten.
+- Danach kann das verdiente Geld abgeholt werden.
+
+Strategie-Tipp:
+- Mehrere Cafés gleichzeitig einnehmen
+- Ware verteilen
+- Nach etwa 30 Minuten zurückkommen und das Geld einsammeln
+
+## Marktpreis und Polizeisystem
+Der Verkaufspreis hängt von der Anzahl der aktiven Polizisten ab:
+
+- Mehr Polizisten online → höherer Verkaufspreis
+- Weniger Polizisten online → geringerer Verkaufspreis
+
+Ziel des Systems:
+- Verhindern, dass Spieler nachts ohne Risiko farmen
+
+Vor dem Verkauf erhältst du eine Meldung:
+- Ob du den vollen Preis oder nur einen reduzierten Preis bekommst
+
+## Risiko und Überfälle
+Cafés sind nicht sicher und können angegriffen werden:
+
+- Andere Spieler oder Gangs können dein Café einnehmen
+- Erst nach erfolgreicher Einnahme können sie:
+  - deine gelagerte Ware stehlen
+
+Wichtig:
+Klauen ist nur nach Übernahme des Cafés möglich.
+
+## Benachrichtigungen
+Wenn dein Café angegriffen wird:
+
+- Du erhältst eine SMS-Benachrichtigung
+- Beispiel:
+  "Dein Café wird gerade eingenommen"
+
+Dadurch hast du die Möglichkeit zu reagieren und dein Café zu verteidigen.
+
+## Zusammenfassung
+- Cafés müssen eingenommen werden
+- Drogen können dort gelagert und verkauft werden
+- Verkauf dauert bis zu 30 Minuten
+- Preise hängen von der Polizeipräsenz ab
+- Andere Spieler können Cafés übernehmen und Ware stehlen
+- Du wirst per SMS über Angriffe informiert
