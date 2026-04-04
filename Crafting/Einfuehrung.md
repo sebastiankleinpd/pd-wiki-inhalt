@@ -17,3 +17,4 @@ Auch die **Waffenherstellung** basiert auf verarbeiteten Materialien, die zuvor 
 Die genauen Herstellungsorte, Crafting-Rezepte sowie benötigten Gegenstände werden auf den jeweiligen Unterseiten detailliert beschrieben.
 
 Diese Seite gibt einen grundlegenden Überblick über das System und dient als Einstieg in die weiteren Crafting-Bereiche.
+
